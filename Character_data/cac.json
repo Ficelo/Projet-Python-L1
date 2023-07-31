@@ -1,0 +1,12 @@
+{
+    "Images": {
+        "Idle": "./Sprites/Personnages/Cac/amogus.png"
+    },
+
+    "Stats": {
+        "speed": 7
+    },
+
+    "Type": "cac"
+
+}

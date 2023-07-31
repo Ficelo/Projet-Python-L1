@@ -1,0 +1,12 @@
+{
+    "Images": {
+        "Idle": "./Sprites/Personnages/Ranged/Ranged_Idle.png"
+    },
+
+    "Stats": {
+        "speed": 5
+    },
+
+    "Type": "ranged"
+
+}

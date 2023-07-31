@@ -1,0 +1,10 @@
+WWWWWWWWWW..WWWWWWWWWW
+W0.......W..W1.......W
+W........W..W........W
+W........WWWW..E.....W
+W.................O..W
+W....P...............W
+W........WWWW......E.W
+W........W..W........W
+W.......0W..W.......1W
+WWWWWWWWWW..WWWWWWWWWW
